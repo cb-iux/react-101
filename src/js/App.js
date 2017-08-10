@@ -14,7 +14,7 @@ class App extends React.Component {
                 <div className="content">
                     <div className="panel-group">
                       <Collapsible title="Overview">
-                        <p>
+                        <p>                        
                         Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute.
                         Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute.
                         Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute.
